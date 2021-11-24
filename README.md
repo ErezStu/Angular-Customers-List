@@ -1,3 +1,5 @@
+# On this app, you can manage customer's list by adding/updating/deleting them. 
+
 To run this app, you need to:
 
 Download the entire folder.
@@ -10,13 +12,9 @@ If you don't have angular/cli globally on your computer, run the command: "npm i
 
 Run the command: "ng serve -o".
 
-On this app, you can manage customer's list by adding/updating/deleting them.
+# To login: username: erez@gmail.com password:1235456
 
-To login: 
-username: erez@gmail.com
-password:1235456
-
-This app is used Angular, Bootstrap and Firebase.
+# This app is used Angular, Bootstrap and Firebase.
 
 ![image](https://user-images.githubusercontent.com/88786771/143203992-ad81dd00-e85d-438d-b7cd-c1b9e7e50e83.png)
 
