@@ -16,3 +16,7 @@ Run the command: "ng serve".
 
 
 
+I used for this app Angular, Bootstrap and Firebase.
+
+
+
