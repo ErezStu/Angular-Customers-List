@@ -8,7 +8,7 @@ Run the following commands on your computer(Mac - on the terminal, Windows - on 
 
 Run the command: "npm I".
 
-If you don't have angular/cli globally on your computer, run the command: "npm i @angular/cli"
+If you don't have angular/cli globally on your computer, run the command: "npm i -g @angular/cli"
 
 Run the command: "ng serve -o".
 
