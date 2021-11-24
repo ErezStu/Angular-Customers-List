@@ -8,7 +8,7 @@ Run the command: "npm I".
 
 If you don't have angular/cli globally on your computer, run the command: "npm i @angular/cli"
 
-Run the command: "ng serve".
+Run the command: "ng serve -o".
 
 On this app, you can manage customer's list by adding/updating/deleting them.
 
