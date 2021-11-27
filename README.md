@@ -1,27 +1,21 @@
-# CustomersCrm
+# On this app, you can manage customer's list by adding/updating/deleting them. 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+To run this app, you need to:
 
-## Development server
+Download the entire folder.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run the following commands on your computer(Mac - on the terminal, Windows - on the command prompt) - if you're using VS Code, run it on the terminal.
 
-## Code scaffolding
+Run the command: "npm I".
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+If you don't have angular/cli globally on your computer, run the command: "npm i -g @angular/cli"
 
-## Build
+Run the command: "ng serve -o".
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# To login: username: erez@gmail.com password:1235456
 
-## Running unit tests
+# This app is used Angular, Bootstrap and Firebase.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://user-images.githubusercontent.com/88786771/143203992-ad81dd00-e85d-438d-b7cd-c1b9e7e50e83.png)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/88786771/143203805-c2224936-9491-4f18-aaa7-19714a72b54a.png)
